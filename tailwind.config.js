@@ -26,6 +26,10 @@ module.exports = {
           error: "#fecaca",
         },
       },
+
+      "light",
+      "dark",
+      "cupcake",
     ],
   },
   plugins: [require("daisyui")],
